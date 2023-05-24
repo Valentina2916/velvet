@@ -1,0 +1,16 @@
+.caja-1 { 
+    background-color: rgb(164, 119, 209);
+}
+.caja-1 h1 {
+    font-size: 30px;
+    color: rgb(219, 15, 131);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.caja-2 form { 
+    font-size: 10px;
+    color: rgb(219, 15, 131);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+   margin-bottom: 10px;
+
+}

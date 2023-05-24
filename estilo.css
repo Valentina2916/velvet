@@ -1,0 +1,27 @@
+.caja-1 {
+    background-color: rgb(237, 233, 241);
+    padding: 2px; 
+}
+.caja-1 h1 {
+    font-size: 60px;
+    color: rgb(219, 15, 131);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+   
+     
+}
+.caja-1 img {
+    width: 100px;
+    margin-left: 10px;
+    border-radius: 50px;
+    float: left; 
+}
+.caja-1 li {
+    display: inline;
+    margin-left: 150px;
+}
+.caja-2 img {
+    width: 100%;
+    height: 100%;
+}
+

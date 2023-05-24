@@ -1,0 +1,19 @@
+.caja-1 {
+    background-color: rgb(200, 180, 219);
+    padding: 20px; 
+}
+.caja-1 h1 {
+    font-size: 30px;
+    color: rgb(219, 15, 131);
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+.caja-1 p {
+    font-size: 20px;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.caja-2 img { 
+    width: 300px;
+    border-radius: 20px;
+}

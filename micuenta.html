@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <title>Mi cuenta</title>
+    <link rel="stylesheet" href="micuenta.css" />
+  </head>
+  <body>
+    <nav class="caja-1">
+      <div>
+        <h1>Iniciar sesion</h1>
+      </div>
+    </nav>
+    <nav>
+      <div class="caja-2">
+        <form action="/procesar-formulario" method="post">
+          <label for="nombre">Usuario:</label>
+          <br />
+
+          <input type="text" id="nombre" name="nombre" required />
+          <br />
+
+          <label for="email">Contraseña:</label>
+          <br />
+          <input type="email" id="email" name="email" required />
+          <br />
+          <input type="submit" value="Enviar" />
+        </form>
+      </div>
+    </nav>
+  </body>
+</html>
